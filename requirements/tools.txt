@@ -50,7 +50,7 @@ com2ann==0.3.0
     # via shed
 coverage==7.6.1
     # via -r requirements/tools.in
-cryptography==43.0.0
+cryptography==43.0.1
     # via
     #   secretstorage
     #   types-pyopenssl
